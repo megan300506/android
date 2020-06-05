@@ -1,7 +1,7 @@
 ## MediaBox HD for Android
 [Download APK](https://dl.dropboxusercontent.com/s/t0nluivhy8712td/app.apk)  Version 2.4.9.2
 
-[Install APK Files on Android](https://www.wikihow.tech/Install-APK-Files-on-Android) 
+[How to Install APK Files on Android](https://www.wikihow.tech/Install-APK-Files-on-Android) 
 
 # Best Stream
 - Use direct streaming only, NO TORRENT STREAMING(peer to peer /P2P)
